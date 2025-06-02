@@ -32,7 +32,7 @@ import './App.css'
       <>
        <div className="w-full h-screen bg-black flex items-center justify-center px-4">
   <div className="w-full max-w-md bg-gray-500 border rounded-md py-4 px-4">
-    <h1 className="text-white text-2xl md:text-3xl text-center mb-4">Password Generator</h1>
+    <h1 className="text-black text-2xl md:text-3xl text-center mb-4">Password Generator</h1>
     
     <div className="flex flex-col sm:flex-row gap-2 mb-5">
       <input
